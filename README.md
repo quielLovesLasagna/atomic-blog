@@ -1,4 +1,4 @@
-This project is a course material that's needed to be analyze before proceeding to another lecture.
+This project is a course material that's needed to be analyzed before proceeding to another lecture.
 
 **Credits**: [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=ST7MT41824)
 
