@@ -1,6 +1,6 @@
 This project is a course material that's needed to be analyze before proceeding to another lecture.
 
-**Credits**: (The Ultimate React Course 2024: React, Redux & More)[https://www.udemy.com/course/the-ultimate-react-course/?couponCode=ST7MT41824]
+**Credits**: [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=ST7MT41824)
 
 # Getting Started with Create React App
 
